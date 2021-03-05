@@ -3,7 +3,7 @@
 ### Social Network for Advertisement
 This dataset tells about user transaction data that will purchased/not purchased a particular product.
 
-![Test Image 1](Dataset.png)
+![](Dataset.PNG)
 
 ### Preprocessing dataset
 First, we will remove User ID. We need to analyze correlation between parameter.
